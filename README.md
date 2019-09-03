@@ -1,3 +1,8 @@
+[![](https://images.microbadger.com/badges/version/neomediatech/rspamd-alpine.svg)](https://microbadger.com/images/neomediatech/rspamd-alpine)
+[![](https://images.microbadger.com/badges/image/neomediatech/rspamd-alpine.svg)](https://microbadger.com/images/neomediatech/rspamd-alpine)
+![](https://img.shields.io/github/last-commit/Neomediatech/rspamd-alpine.svg?style=plastic)
+![](https://img.shields.io/github/repo-size/Neomediatech/rspamd-alpine.svg?style=plastic)
+
 # Dockerized Rspamd on Alpine
 Dockerized version of rspamd, based on Alpine Linux.
 
